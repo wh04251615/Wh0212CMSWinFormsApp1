@@ -1,0 +1,15 @@
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\bin\Debug\CMSWinFormsApp1.exe.config
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\bin\Debug\CMSWinFormsApp1.exe
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\bin\Debug\CMSWinFormsApp1.pdb
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.csproj.AssemblyReference.cache
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.Form1.resources
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.Properties.Resources.resources
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.csproj.GenerateResource.cache
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.csproj.CoreCompileInputs.cache
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.exe
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.pdb
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.CustomerForm.resources
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.Jobs_Details_Form.resources
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.ReportsForm.resources
+D:\workspace\CASE_2021-22.2\MyRepos\CMSWinFormsApp1\CMSWinFormsApp1\obj\Debug\CMSWinFormsApp1.WorkerForm.resources
